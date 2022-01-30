@@ -210,15 +210,41 @@ console.log(totalPrice);
 var premik = "Manik";
 var premika = 'Amena';
 
-console.log(premik + premika);
+console.log(premik + premika); // output: ManikAmena
 
 
 // by declare a variable to set total price:
 
+
 var amraDuJon = premik + premika;
 
+console.log(amraDuJon); // output: ManikAmena
 
-console.log(amraDuJon);
+
+
+// With Whitespace between two names:
+
+
+var premik = "Manik";
+var premika = 'Amena';
+
+
+var amraDuJon = premik + ' ' + premika;
+
+console.log(amraDuJon); // output: Manik Amena
+
+
+// Manually doing this to get same result: [Add space at the ending of first name or at the begining of last name]
+
+
+var premik = "Manik ";
+var premika = 'Amena';
+
+
+var amraDuJon = premik + premika;
+
+console.log(amraDuJon); // output: Manik Amena
+
 
 
 
