@@ -213,7 +213,7 @@ var premika = 'Amena';
 console.log(premik + premika); // output: ManikAmena
 
 
-// by declare a variable to set total price:
+// by declare a variable to set two names in line:
 
 
 var amraDuJon = premik + premika;
