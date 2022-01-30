@@ -33,7 +33,7 @@ var price = 33;
 
 // 2. var name - Shabana // 
 
-// [Must have equal sign instead of hiphen and there need quotation mark in alphabetic value because this is string. And at last there need to semicolone to end to declare variable.] //
+// [Must have equal sign instead of hiphen and there need quotation mark in alphabetic value because this is string. And at last there need to put semicolone to end to declare variable.] //
 
 var name = "Shabana";
 
@@ -49,8 +49,9 @@ var boxName = 'Cocola';
 
 // [Number is not applicable in the begining of variable name. It can be applied in ending with underscore (_) or without underscore.]
 
-var price_88 = 34;
-var price88 = 34;
+
+var price_88 = 34; // With underscore
+var price88 = 34; // Without underscore
 
 
 // 5. var enum = -1; //
@@ -59,7 +60,7 @@ var price88 = 34;
 
 ts = typescript
 
-Enums
+Enums [source- w3school.com]
 
 An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables).
 
@@ -92,8 +93,8 @@ var_$box78 = 'Monika';
 
 // hiphen is not allowed in variable name. Quotation mark is in invalid form here for value.
 
-var home_address = 'kochu khet';
-var homeAddress = 'kochu khet'; // [CamelCase can be applied here to write variable name.]
+var home_address = 'kochu khet'; // with underscore
+var homeAddress = 'kochu khet'; // without underscore [CamelCase can be applied here to write variable name. And it is the highly recommended practice.]
 
 
 

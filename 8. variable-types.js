@@ -7,7 +7,7 @@
 //                (i) Number
 //                (ii) String
 //                (iii) Boolean
-//                (iv)   Null
+//                (iv)  Null
 
 
 // 2. Non-Primitive.
@@ -58,7 +58,7 @@ console.log(typeof pass); // output: boolean
 
 var haveTime;
 
-console.log(haveTime); // output: undefined
+console.log(haveTime); // output: undefined [Here we don't say the value of this variable]
 
 
 
@@ -69,3 +69,6 @@ var today = new Date(); // [It is one type of Object Data]
 console.log(today); // output: 2022-01-28T15:54:58.757Z
 
 console.log(typeof today); // output: object
+
+
+

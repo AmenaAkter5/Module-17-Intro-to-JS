@@ -31,6 +31,7 @@ console.log(division); // output: 3.1
 // ===================================
 
 
+// We can multiply number with variable
 
 var doublePrice = price1 * 2;
 var newPrice = price1 + 10;
@@ -115,3 +116,6 @@ price--; // shortcut system to decrease 1
 console.log(price); // output: 24 / 23 / 22 [one by one deduction run]
 
 // [Here output will be 22. here deduct 1 by 1 and show total output]
+
+
+

@@ -120,7 +120,7 @@ console.log(bariKoi); // output: chagol naiya
 
 name = "Gorib Ullah"
 
-console.log(name); // output: Gorib Ullah
+console.log(name); // output: Gorib Ullah [we get the value which is set in last.]
 
 
 
@@ -147,6 +147,7 @@ var chaKhabi = true;
 var takaSoraichis = false;
 
 
+
 /* ৪.৩: কোক খাবি (cokeKhabi) নামে একটা ভেরিয়েবল লিখ এবং সেটার মান সেট কর। */
 
 var cokeKhabi = false;
@@ -170,6 +171,8 @@ var dalerDam = 20;
 console.log(chalerDam + dalerDam); // output: 49
 
 
+// by declare a variable to set total price:
+
 var totalDam = chalerDam + dalerDam;
 
 console.log(totalDam); // output: 49
@@ -192,6 +195,7 @@ breadPrice = 30;
 
 console.log(kolarDam + breadPrice); // output: 58
 
+// by declare a variable to set total price:
 
 var totalPrice = kolarDam + breadPrice;
 
@@ -209,7 +213,12 @@ var premika = 'Amena';
 console.log(premik + premika);
 
 
+// by declare a variable to set total price:
 
+var amraDuJon = premik + premika;
+
+
+console.log(amraDuJon);
 
 
 

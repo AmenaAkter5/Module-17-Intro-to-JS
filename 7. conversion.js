@@ -99,7 +99,7 @@ console.log(price1Number); // output: 10
 
 var price3 = '55.20';
 
-console.log(parseInt(price3)); // output: 55 [.20 is not shown because we convert in integer]
+console.log(parseInt(price3)); // output: 55 [.20 is not shown because we convert in integer. So, we need to know float to convert it in decimal number.]
 
 
 
@@ -155,6 +155,8 @@ console.log(newPrice); // output: 143 [if it was run as string then the output w
 // ========================================
 
 
+// To make addition of two decimal numbers we need to fix it because there have some technichal issues where decimal output has big length so here we need to say the ''decimal level'' for output by coding.
+
 
 var first = 0.1;
 var second = 0.2;
@@ -191,3 +193,7 @@ console.log(total); // output: 0.3 [In string value]
 total = parseFloat(total); // to change in number value from string
 
 console.log(total); // output: 0.3 [In number]
+
+
+
+

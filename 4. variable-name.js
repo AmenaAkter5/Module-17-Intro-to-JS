@@ -1,5 +1,5 @@
 // ====================================================
-//            Best Practice of Naming Variable:
+//            Best Practice of Naming Variable
 // ====================================================
 
 
@@ -10,6 +10,7 @@
 
 // var true = 15;
 // var delete = 'delete';
+
 
 
 // 2. Variable Name should be in a single word
@@ -33,7 +34,7 @@ var bfname = '...'
 // Examle:
 
 var myofficeaddress = "Dhaka";
-// var my-office - address = "Dhaka"; x
+// var my-office-address = "Dhaka"; x
 var my_office_address = "Dhaka";
 
 // ***
@@ -65,3 +66,6 @@ var userHomeAddress = 'katabon';
 // 2. "camelcase" should be used to write one more wods without space.
 // 3. Reserved keyword is not allowed.
 // 4. numbers can be applied in ending.
+
+
+

@@ -1,4 +1,4 @@
-// 5 parts to declare a variable:
+// 5 things to declare a variable:
 
 
 // 1. short form of variable - var
@@ -9,10 +9,13 @@
 
 var price = 25;
 
-// Here 5 parts are:
+// Here 5 things are:
 
 // 1. var
-// 2. price
+// 2. price - variable name
 // 3. =
-// 4. 25
+// 4. 25 - value
 // 5. ;
+
+
+

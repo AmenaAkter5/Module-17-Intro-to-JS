@@ -106,3 +106,7 @@ var students = 2;
 var remaining = mangoes % students;
 
 console.log(remaining); // output: 1 [remaining 1 after dividing 7 mangoes equally between 2 students.]
+
+
+
+
